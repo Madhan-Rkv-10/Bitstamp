@@ -1,0 +1,11 @@
+{
+    "app_name": "Start up application",
+    "open":"open",
+    "high":"high",
+    "low":"low",
+    "last":"last",
+    "volume":"Volume",
+    "view_order_book":"VIEW ORDER BOOK",
+    "no_data_found":"Enter Currency Pair to Load Data",
+    "order_book":"Order Book"
+}
